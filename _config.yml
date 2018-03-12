@@ -1,6 +1,6 @@
 # Site settings
-title: "cmp Jekyll Resume Template"
-description: "cmp A resume template for Jekyll and GitHub Pages sites."
+title: "CMP resume"
+description: "A resume for CMP."
 
 # Build settings
 markdown: kramdown
