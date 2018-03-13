@@ -1,19 +1,20 @@
 # Jobs
-# Shoptocat
-- company: GitHub, Inc.
-  position: Shoptocat
-  duration: March, 2013 &mdash; Present
-  summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
+
+# Web Developer
+- company: GitHub cmp
+  position: Web Developer cmp
+  duration: June, 2015 &mdash; Present
+  summary: Develop, maintain, and release numerous improvements to the user experience on GitHub.com.  cmp
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
+- company: Conway Meats cmp
+  position: Web Developer cmp
   duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+  summary: Web developer for a restaurant meat provider.  cmp
 
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  October 2016 &mdash; Present
-  summary: Provide amazing support to customers on the GitHub for Business platform
+# Intern
+- company: GitHub cmp
+  position: Intern - Web Developer cmp
+  duration:  May, 2013  &mdash; August, 2013
+  summary: Worked on various user facing projects on GitHub.com  cmp
